@@ -1,0 +1,2 @@
+# ScoreboardManager
+ScoreboardManager with BungeeCord
